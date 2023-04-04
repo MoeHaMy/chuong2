@@ -1,0 +1,5 @@
+hoten=input('Ho va ten= ')
+tuoi=input('Tuoi= ')
+print ('Ho ten: ',hoten)
+print ('Tuoi: ',tuoi)
+print('Chao ban ',hoten,', chuc mung sinh nhat thu 18 !!!',sep='')
